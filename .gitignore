@@ -5,5 +5,11 @@
 *_autosave*
 ~*
 
+.history/
+*.kicad_prl
+*.lck
+*_autosave*
+*-bak
+
 # Backup zip folder
 VolvocineWithCurrentSensor-backups/
