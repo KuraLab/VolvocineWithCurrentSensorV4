@@ -1,9 +1,3 @@
-# KiCad backup / autosave
-*-bak
-*.kicad_prl
-*.lck
-*_autosave*
-~*
-
-# Backup zip folder
-VolvocineWithCurrentSensor-backups/
+fp-info-cache
+*-backups
+README.txt
